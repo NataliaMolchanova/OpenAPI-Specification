@@ -1,9 +1,9 @@
 Code of Conduct
 ===============
-
+test me
 OpenAPI Initiative Code of Conduct
 
-*The Linux Foundation*
+*The Linux Foundation* n n. jinjnkjnmnj 
 
 *Effective November 24, 2020*
 
@@ -14,7 +14,7 @@ project, we want to foster an open and welcoming environment. We pledge
 to make participation in our project and our community a harassment-free
 experience for everyone, regardless of age, body size, disability,
 ethnicity, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance,
+education, socio-economic status, nationality, personal appearance,njnj k k kj kj k j j
 race, religion, or sexual identity and orientation.
 
 Our Standards
